@@ -33,9 +33,9 @@ const Contact = () => {
 				"template_jjegxdr",
 				{
 					from_name: form.name,
-					to_name: "Om Patel",
+					to_name: "Arpit Kumar",
 					from_email: form.email,
-					to_email: "omunite21@gmail.com",
+					to_email: "akakarpit987106@gmail.com",
 					message: form.message,
 				},
 				"VeFeVdEHL9F9_i6xp",
